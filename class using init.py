@@ -8,8 +8,6 @@ class batch:
     def info(self):
         print(f"{a} is pursuing {b} in {c} ")
 
-i = 1
-data = []
 
 a = input("enter the name : ")
 b = input("enter the class : ")
